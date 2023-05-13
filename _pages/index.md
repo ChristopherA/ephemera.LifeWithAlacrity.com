@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: Single-Page Website
+layout: home
 ---
 
 # Per nutrit frugilegas sibi iuvatis abit Sabina
