@@ -18,6 +18,5 @@ defaults:
     values:
       layout: single
       masthead: false
-      copyright-notice: false
-      header:
+       header:
         overlay_color: "#333"
