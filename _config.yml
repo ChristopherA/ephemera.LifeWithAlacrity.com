@@ -1,6 +1,6 @@
 title: Ephemera
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 description: >- 
   Transitory thoughts about stuff I care about
 name: Christopher Allen
@@ -20,3 +20,14 @@ defaults:
       masthead: false
       header: false
       overlay_color: "#333"
+  # _pages
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      masthead: false
+      header: false
+      overlay_color: "#333"
+      show_date: false
+      
