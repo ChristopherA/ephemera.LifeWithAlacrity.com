@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: Single-Page Website
+title: Christopher Allen's Ephemera
 layout: home
+overlay_color: "#333"
 ---
 
-# @ChristopherA's Ephemera
