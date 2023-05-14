@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Privacy Law Links
+title: GIST - Privacy Law Links
 show_date: false
 overlay_color: "#333"
 ---
