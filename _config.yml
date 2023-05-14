@@ -17,8 +17,6 @@ defaults:
       type: pages
     values:
       layout: single
-      masthead: false
-      header: false
       overlay_color: "#333"
   # _pages
   - scope:
@@ -26,8 +24,6 @@ defaults:
       type: posts
     values:
       layout: single
-      masthead: false
-      header: false
       overlay_color: "#333"
       show_date: false
       
