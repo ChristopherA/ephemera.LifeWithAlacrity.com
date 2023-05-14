@@ -1,5 +1,4 @@
 ---
-title: Privacy Law Links
 layout: single
 show_date: false
 overlay_color: "#333"
